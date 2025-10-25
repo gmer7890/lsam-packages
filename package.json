@@ -3,7 +3,7 @@
     {
       "id": "login-system",
       "name": "Login System",
-      "description": "Sistema de autenticación con manejo de sesiones y tokens.",
+      "description": "Sistema de autenticación con manejo de sesiones y tokenw.",
       "url": "https://github.com/liku-work/login-system/archive/refs/heads/main.zip",
       "author": "Liku",
       "version": "1.0.1",
